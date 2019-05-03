@@ -6,8 +6,23 @@
 /* Not all elements are defined in this file, so you'll most likely want to refer to the xhtml as well. */
 
 /* Your images should be linked as if the CSS file sits in the same folder as the images. ie. no paths. */
+/* codes de theo */
+.page-wrapper {
+	border: 4.6px solid #000;
+	position:absolute;
+	top:190.8px;
+	left: 502px;
+	height: 247.9px;
+	width: 376.5px;
 
 
+}
+
+
+.page-wrapper div {
+	display: none;
+
+}
 /* basic elements */
 html {
 	margin: 0;
