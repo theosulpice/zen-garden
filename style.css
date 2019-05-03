@@ -11,14 +11,12 @@
 	border: 4.6px solid #000;
 	position:absolute;
 	top:190.8px;
-	left: 502px;
+	right: 449px;
 	height: 247.9px;
 	width: 376.5px;
 
 
 }
-
-
 .page-wrapper div {
 	display: none;
 
@@ -68,12 +66,6 @@ abbr {
 
 
 /* specific divs */
-.page-wrapper {
-	background:
-	padding: 0 175px 0 110px;
-	margin: 0;
-	position: relative;
-	}
 
 .intro {
 	min-width: 470px;
